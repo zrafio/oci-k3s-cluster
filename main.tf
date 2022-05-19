@@ -15,7 +15,7 @@ module "k3s_cluster" {
   cluster_name        = "oci-k3s-cluster"
   environment         = "dev"
   k3s_token           = "gmVJMxtf3VGSTojpZBNyDRbWh3SP87l2EInZRXYCLDCl4QySuPdLJ2T"
-  source              = "github.com/garutilorenzo/k3s-oci-cluster"
+  source              = "https://github.com/zrafio/oci-k3s-cluster.git"
 }
 
 output "k3s_servers_ips" {
