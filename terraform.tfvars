@@ -1,0 +1,5 @@
+fingerprint      = "e0:98:a1:2e:3f:77:40:99:d9:57:ba:d5:d4:f3:ee:dc"
+private_key_path = "~/.oci/zrafio-oracle-cloud.pem"
+user_ocid        = "ocid1.user.oc1..aaaaaaaaojacbxbdrdgcyro2nvoxr2lvqfxe73ydjakblyy5inn444ytd6ba"
+tenancy_ocid     = "ocid1.tenancy.oc1..aaaaaaaawpshfykz5jkgfj7hbxnqbrwttldpvhlhjiwu2ubrd6gxr364iomq"
+compartment_ocid = "ocid1.tenancy.oc1..aaaaaaaawpshfykz5jkgfj7hbxnqbrwttldpvhlhjiwu2ubrd6gxr364iomq"
